@@ -22,7 +22,7 @@ Attorney and Doctor of Law and Economics with more than 20 years in commercial a
 ## Background
 
 - Deputy Chair, Israel Bar Association (2015-2023)
-- Lecturer, Tel Aviv University (2023-2025); guest lecturer at the Universities of Córdoba and Seville on AI in legal and economic decision-making
+- Lecturer, Tel Aviv University (2023-2025)
 - Ph.D. in Law & Economics, University of Córdoba · LL.M., Tel Aviv University & UC Berkeley (joint program) · LL.B., Netanya Academic College
 
 [lalumapp.com](https://lalumapp.com) · [avraham@lalum.co](mailto:avraham@lalum.co) · [ORCID 0009-0003-8542-5357](https://orcid.org/0009-0003-8542-5357)
