@@ -15,8 +15,8 @@ Attorney and Doctor of Law and Economics with more than 20 years in commercial a
 
 ## Research & publications
 
-- Lalum, A., Caridad López del Río, L., & Ceular Villamandos, N. (2025). Multi-Dimensional AI-Based Modeling of Real Estate Investment Risk: A Regulatory and Explainable Framework for Investment Decisions. *Mathematics*, 13(21), 3413. [doi:10.3390/math13213413](https://doi.org/10.3390/math13213413)
-- Lalum, A., Caridad López del Río, L., & Ceular Villamandos, N. (2024). Synthetic Reality Mapping of Real Estate Using Deep Learning-Based Object Recognition Algorithms. *SN Business & Economics*, 4(5), 49. [doi:10.1007/s43546-024-00643-4](https://doi.org/10.1007/s43546-024-00643-4)
+- Lalum, A., Caridad López del Río, L., & Ceular Villamandos, N. (2025). Multi-dimensional AI-based modeling of real estate investment risk: A regulatory and explainable framework for investment decisions. *Mathematics*, *13*(21), 3413. [doi:10.3390/math13213413](https://doi.org/10.3390/math13213413)
+- Lalum, A., Caridad López del Río, L., & Ceular Villamandos, N. (2024). Synthetic reality mapping of real estate using deep learning-based object recognition algorithms. *SN Business & Economics*, *4*(5), 49. [doi:10.1007/s43546-024-00643-4](https://doi.org/10.1007/s43546-024-00643-4)
 - Books: *Limits of Judicial Intervention in Standard Contracts* (2012) · *Guide to Standard Contracts* (2017) · *Guidebook on TAMA 38 Transactions*, three volumes (2020) · *Urban Renewal: A Practical Guide* (2025)
 
 ## Background
@@ -26,3 +26,4 @@ Attorney and Doctor of Law and Economics with more than 20 years in commercial a
 - Ph.D. in Law & Economics, University of Córdoba · LL.M., Tel Aviv University & UC Berkeley (joint program) · LL.B., Netanya Academic College
 
 [lalumapp.com](https://lalumapp.com) · [avraham@lalum.co](mailto:avraham@lalum.co) · [ORCID 0009-0003-8542-5357](https://orcid.org/0009-0003-8542-5357)
+
