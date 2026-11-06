@@ -1,60 +1,28 @@
-# 👋 Legal Tech & AI Specialist
+# Dr. Avraham Lalum, Adv.
 
-Welcome to my GitHub profile! I'm passionate about exploring the intersection of **Law**, **Technology**, and **Artificial Intelligence**.
+**Attorney, Notary & Ph.D. in Law & Economics · Legal AI · Founder, LALUM**
 
-## 🎯 About Me
+Attorney and Doctor of Law and Economics with more than 20 years in commercial and transactional practice. I build AI and LLM tooling that operationalizes legal work at scale, and I am the architect of the LALUM Legal Engine, an AI-assisted legal platform. My doctoral research focuses on explainable, AI-based risk modeling and regulatory compliance. Licensed notary and certified mediator.
 
-Attorney, Notary, and Ph.D. candidate in Law & Economics (University of Córdoba, Spain) with 20+ years of experience in commercial contracting, contract governance, and legal risk. Founder & Managing Partner of Lalum & Co. Law Firm, founder of the LALUM Legal Clinic, and architect of the LALUM Legal Engine — an AI-assisted legal platform. Author of two professional treatises on standard-form and commercial contracts, and researcher on regulatory compliance and explainable AI-based risk modeling.
+## What I work on
 
-**Core competencies:**
-- **Commercial Contracting & Analysis**: drafting, negotiating, and interpreting commercial and standard-form agreements; risk allocation and key-provision analysis. Author of *Limits of Judicial Intervention in Standard Contracts* and *Guide to Standard Contracts*
-- **Contract Governance & Compliance**: review procedures, approval matrices, delegation-of-authority and exception-tracking frameworks, templates, and playbooks
-- **AI-Driven Legal Operations**: LLM-based contract review and legal-analysis tooling (Anthropic Claude API, Model Context Protocol, RAG/vector databases); AI system design, evaluation, and human-in-the-loop review
-- **Regulatory & Risk Analysis**: economic analysis of law, explainable AI-based risk modeling (original frameworks: RECIR, SRME)
-- **Program Management**: leading concurrent legal, technical, and operational workstreams
+- **Legal AI tooling:** LLM-based contract and due-diligence review; Anthropic Claude API, Model Context Protocol (MCP), retrieval-augmented generation (RAG) and vector databases.
+- **Applied AI:** machine-learning risk modeling in Python, explainable AI, feature-importance and model-evaluation methods.
+- **Original frameworks:** RECIR (a regulatory, explainable AI-risk framework) and SRME (a structured risk-modeling engine).
+- **Legal operations:** templates, approval workflows, delegation-of-authority frameworks and playbooks.
+- **Regulatory compliance:** GDPR, the EU AI Act, Amendment 13 to Israel's Privacy Protection Law, and AI governance.
+- **Real estate:** acquisition, development and urban renewal transactions in Israel and abroad.
 
-**Background highlights:**
-- Deputy Chair, Israel Bar Association (2015–2023) — national professional-governance reforms with the Ministry of Justice
-- Lecturer, Tel Aviv University; Guest Lecturer, University of Córdoba & University of Seville — AI in legal and economic decision-making
-- Peer-reviewed research published in *Mathematics* (Scopus/JCR) and *SN Business & Economics*
-- LL.M., Tel Aviv University & UC Berkeley (joint program); LL.B., Netanya Academic College
+## Research & publications
 
-## 💡 Areas of Interest
+- Lalum, A., Caridad López del Río, L., & Ceular Villamandos, N. (2025). Multi-Dimensional AI-Based Modeling of Real Estate Investment Risk: A Regulatory and Explainable Framework for Investment Decisions. *Mathematics*, 13(21), 3413. [doi:10.3390/math13213413](https://doi.org/10.3390/math13213413)
+- Lalum, A., Caridad López del Río, L., & Ceular Villamandos, N. (2024). Synthetic Reality Mapping of Real Estate Using Deep Learning-Based Object Recognition Algorithms. *SN Business & Economics*, 4(5), 49. [doi:10.1007/s43546-024-00643-4](https://doi.org/10.1007/s43546-024-00643-4)
+- Books: *Limits of Judicial Intervention in Standard Contracts* (2012) · *Guide to Standard Contracts* (2017) · *Guidebook on TAMA 38 Transactions*, three volumes (2020) · *Urban Renewal: A Practical Guide* (2025)
 
-- 📜 Legal Technology & Compliance
-- 🤖 AI & Machine Learning in Legal Context
-- ⚖️ Legal Research Automation
-- 🔐 Cybersecurity & Data Privacy
-- 📊 Legal Analytics & Insights
-- 🧠 NLP for Legal Documents
+## Background
 
-## 🛠️ Technology Stack
+- Deputy Chair, Israel Bar Association (2015-2023)
+- Lecturer, Tel Aviv University (2023-2025); guest lecturer at the Universities of Córdoba and Seville on AI in legal and economic decision-making
+- Ph.D. in Law & Economics, University of Córdoba · LL.M., Tel Aviv University & UC Berkeley (joint program) · LL.B., Netanya Academic College
 
-- **Languages**: Python, JavaScript, TypeScript
-- **AI/ML**: Machine Learning, NLP, Deep Learning
-- **Legal Tech**: Contract Analysis, Legal Research Tools
-- **Other**: Git, GitHub, Data Analysis, Cloud Technologies
-
-## 📚 Projects
-
-I work on projects that combine legal expertise with technical innovation. Check out my repositories to see what I'm currently working on!
-
-## 🤝 Collaboration
-
-I'm interested in collaborating on:
-- Legal Tech solutions
-- AI applications in law
-- Open-source legal tech projects
-- Research in computational law
-
-## 📬 Get in Touch
-
-Feel free to reach out if you'd like to discuss:
-- Legal technology challenges
-- AI and law opportunities
-- Potential collaborations
-- Ideas at the intersection of law and technology
-
----
-
-**Made with ❤️ for Legal Tech Innovation**
+[lalumapp.com](https://lalumapp.com) · [avraham@lalum.co](mailto:avraham@lalum.co) · [ORCID 0009-0003-8542-5357](https://orcid.org/0009-0003-8542-5357)
